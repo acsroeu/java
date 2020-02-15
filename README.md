@@ -9,4 +9,5 @@ e-mail: cristian.toma@ie.ase.ro
 All the details for using this code in the Oracle VM Box or Docker are @: http://acs.ase.ro/java
 
 For downloading this repo, please use:
+git clone https://github.com/acsroeu/java.git
 git clone https://github.com/critoma/javase.git
