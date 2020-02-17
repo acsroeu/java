@@ -1,4 +1,4 @@
-# javase
+# java | javase
 
 Java SE Samples for the Lectures and Labs source code with MIT License.
 
